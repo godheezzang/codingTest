@@ -10,3 +10,7 @@ def solve(str):
     return result
 
 print(solve(str))
+
+# 다른 방법
+str = input()
+print(str.swapcase())
